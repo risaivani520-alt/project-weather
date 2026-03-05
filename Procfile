@@ -1,0 +1,1 @@
+web: gunicorn weatherpro.wsgi:application
